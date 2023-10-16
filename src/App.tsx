@@ -3,8 +3,6 @@ import AppRouter from "./pages/AppRouter";
 import { AuthProvider } from "./AuthContext";
 import "./App.css";
 
-//comment
-
 const App: React.FC = () => {
   return (
     <>
