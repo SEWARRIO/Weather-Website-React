@@ -1,0 +1,62 @@
+/* Weather.css */
+
+body {
+    background-color: white;
+    font-family: 'Arial', sans-serif; /* Replace with your preferred font */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%; /* Make the content center vertically on the screen */
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    max-width: 100%; /* Adjust as needed */
+    width:100%;
+    height:400px;
+    margin-right:100px;
+    padding:100px;
+  }
+  
+  h2 {
+    font-size: 1.5em; /* Increase font size */
+  }
+  
+  p {
+    font-size: 1.2em; /* Increase font size */
+  }
+  
+  .bold {
+    font-weight: bold;
+    color:black;
+  }
+  
+  /* Add more styling as needed */
+  
+  .search{
+    margin-right:10px;
+    height:32px;
+  }
+  .divs{
+    display: flex;
+    margin-left:100px;
+    
+  }
+  .image{
+    height:200px;
+    width:200px;
+  }
+
+  .weatherDetails{
+    text-align: left;
+  }
+
+  .temp{
+    font-weight: bold;
+    color:black;
+    font-size: 60px;
+    padding:0;
+    margin-top:30px;
+    color:black;
+  }
